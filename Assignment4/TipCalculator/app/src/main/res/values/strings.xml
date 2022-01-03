@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TipCalculator</string>
+    <string name="costText">Check Amount</string>
+    <string name="totalCostText">hint</string>
+    <string name="computer_total">Computer Total</string>
+    <string name="tips_totals_per_person"><![CDATA[Tips & Totals (Per person)]]></string>
+    <string name="tipsText">Tip:</string>
+    <string name="tips15Text">15%</string>
+    <string name="tips15Val">0</string>
+    <string name="fifteenPercentTipValue">__</string>
+    <string name="tips20Text">20%</string>
+    <string name="twentyPercentTipValue">__</string>
+    <string name="tips25Text">25%</string>
+    <string name="twentyfivePercentTipValue">__</string>
+    <string name="totalText">Total:</string>
+    <string name="total_cost">Check Amount:</string>
+    <string name="compute_tip">COMPUTE TIP</string>
+    <string name="party_size">Party Size:</string>
+    <string name="partySizeHint">partySizeHint</string>
+    <string name="totalCostHint">totalCostHint</string>
+</resources>

@@ -1,0 +1,69 @@
+# NumOfFiles
+  Number of files provided:
+        Zero.                [error]  [property zeroFiles]
+        One.                 [single] [property onlyOneArgumentGivenExpectTwo]
+        multiple.
+
+# File
+  File is exist or not with the given name:
+        Found one name.         [single]   [if !zeroFiles] [property fileExists]
+        Found multiple name.    [multiple] [if !zeroFiles] [property fileExists]
+        Not found.              [error]    
+        Not given.              [error]    
+
+  File name is endWith forward Slash:
+        True.        [single] [if fileExists] [property isFileNameEndWithForwardSlash]
+        False.
+
+   
+  Can file be be open or not:
+        True.        [single] [if fileExists] [property canFileOpen]
+        False.
+
+  Destination path is valid or not:
+        Valid.                 [if !zeroFiles] [property fileExists]
+        Not valid.             [error]  [property fileNotExists]
+        Not Selected.          [error]  [property fileNotExists]
+
+  Presence of a file:
+      Zero.     [error]
+      One.      
+      multiple. 
+
+  
+# OPT
+  number of command line arguments and options:
+        Zero.                   [single]    [property emptyOPT]
+        More than one.
+  
+  command line argument for -b:
+        -b was entered.          [if !emptyOPT]
+        -b was not entered.      [if !emptyOPT]
+
+  command line argument for -f:
+        -f was entered.          [if !emptyOPT]  [property removeIt, tryAgain] 
+        -f was not entered.      [if !emptyOPT]
+        
+  command line argument for -r:
+        -r was entered.          [if !emptyOPT && fileExists && isFileNameEndWithForwardSlash] [property copyContentOfTheDirectoryButNotTheDirectoryItSelct]
+        -r was not entered.      [if !emptyOPT]
+
+  command line argument for -v:
+        -v was entered.          [if !emptyOPT] [property showFileAsCopied]
+        -v was not entered.      [if !emptyOPT]
+
+# Copy specific file with file extension
+  Checking specific extension of the file:
+      founded.         [if !emptyOPT] [property copyAllTHeFileWIthThisExtension]
+      not founded.     [error] [if !emptyOPT]
+
+# CSShecking interactivities
+ Check copied file is already presents:
+        Yes.          [if !emptyOPT] [property showConfirmationMsg,  copyFilesInteractively]
+        No.           [if !emptyOPT]
+
+# Checking symbolic link
+  Symbolic link of the file:
+        founded.          [if !emptyOPT] [property createSymbolicLink]
+        not founded.      [if !emptyOPT]
+ 

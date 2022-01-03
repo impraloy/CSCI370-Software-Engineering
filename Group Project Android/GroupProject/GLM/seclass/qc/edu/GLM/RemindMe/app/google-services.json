@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "2162386748",
+    "firebase_url": "https://remindme-e02f5-default-rtdb.firebaseio.com",
+    "project_id": "remindme-e02f5",
+    "storage_bucket": "remindme-e02f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2162386748:android:e1d8f9e9e0ed04aa076039",
+        "android_client_info": {
+          "package_name": "edu.qc.seclass.glm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2162386748-cobkcd7e817k4c1f3ftkph3ebcch90it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9qgQIJKkSeNIed3rRIz2x5BvaIk4hqks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2162386748-cobkcd7e817k4c1f3ftkph3ebcch90it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

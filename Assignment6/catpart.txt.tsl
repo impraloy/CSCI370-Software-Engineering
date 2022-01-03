@@ -1,0 +1,1136 @@
+
+Test Case 1  		<error>
+   Number of files provided :  Zero
+
+
+Test Case 2  		<single>
+   Number of files provided :  One
+
+
+Test Case 3  		<single>
+   File is exist or not with the given name :  Found one name
+
+
+Test Case 4  		<error>
+   File is exist or not with the given name :  Not found
+
+
+Test Case 5  		<error>
+   File is exist or not with the given name :  Not given
+
+
+Test Case 6  		<single>
+   File name is endWith forward Slash :  True
+
+
+Test Case 7  		<single>
+   Can file be be open or not :  True
+
+
+Test Case 8  		<error>
+   Destination path is valid or not :  Not valid
+
+
+Test Case 9  		<error>
+   Destination path is valid or not :  Not Selected
+
+
+Test Case 10 		<error>
+   Presence of a file :  Zero
+
+
+Test Case 11 		<single>
+   number of command line arguments and options :  Zero
+
+
+Test Case 12 		<error>
+   Checking specific extension of the file :  not founded
+
+
+Test Case 13 		(Key = 3.2.2.2.1.2.2.1.1.2.1.1.1.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  founded
+
+
+Test Case 14 		(Key = 3.2.2.2.1.2.2.1.1.2.1.1.1.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 15 		(Key = 3.2.2.2.1.2.2.1.1.2.1.1.2.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  founded
+
+
+Test Case 16 		(Key = 3.2.2.2.1.2.2.1.1.2.1.1.2.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 17 		(Key = 3.2.2.2.1.2.2.1.1.2.2.1.1.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  founded
+
+
+Test Case 18 		(Key = 3.2.2.2.1.2.2.1.1.2.2.1.1.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 19 		(Key = 3.2.2.2.1.2.2.1.1.2.2.1.2.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  founded
+
+
+Test Case 20 		(Key = 3.2.2.2.1.2.2.1.1.2.2.1.2.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 21 		(Key = 3.2.2.2.1.2.2.1.2.2.1.1.1.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  founded
+
+
+Test Case 22 		(Key = 3.2.2.2.1.2.2.1.2.2.1.1.1.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 23 		(Key = 3.2.2.2.1.2.2.1.2.2.1.1.2.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  founded
+
+
+Test Case 24 		(Key = 3.2.2.2.1.2.2.1.2.2.1.1.2.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 25 		(Key = 3.2.2.2.1.2.2.1.2.2.2.1.1.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  founded
+
+
+Test Case 26 		(Key = 3.2.2.2.1.2.2.1.2.2.2.1.1.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 27 		(Key = 3.2.2.2.1.2.2.1.2.2.2.1.2.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  founded
+
+
+Test Case 28 		(Key = 3.2.2.2.1.2.2.1.2.2.2.1.2.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 29 		(Key = 3.2.2.2.1.2.2.2.1.2.1.1.1.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  founded
+
+
+Test Case 30 		(Key = 3.2.2.2.1.2.2.2.1.2.1.1.1.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 31 		(Key = 3.2.2.2.1.2.2.2.1.2.1.1.2.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  founded
+
+
+Test Case 32 		(Key = 3.2.2.2.1.2.2.2.1.2.1.1.2.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 33 		(Key = 3.2.2.2.1.2.2.2.1.2.2.1.1.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  founded
+
+
+Test Case 34 		(Key = 3.2.2.2.1.2.2.2.1.2.2.1.1.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 35 		(Key = 3.2.2.2.1.2.2.2.1.2.2.1.2.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  founded
+
+
+Test Case 36 		(Key = 3.2.2.2.1.2.2.2.1.2.2.1.2.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 37 		(Key = 3.2.2.2.1.2.2.2.2.2.1.1.1.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  founded
+
+
+Test Case 38 		(Key = 3.2.2.2.1.2.2.2.2.2.1.1.1.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 39 		(Key = 3.2.2.2.1.2.2.2.2.2.1.1.2.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  founded
+
+
+Test Case 40 		(Key = 3.2.2.2.1.2.2.2.2.2.1.1.2.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 41 		(Key = 3.2.2.2.1.2.2.2.2.2.2.1.1.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  founded
+
+
+Test Case 42 		(Key = 3.2.2.2.1.2.2.2.2.2.2.1.1.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 43 		(Key = 3.2.2.2.1.2.2.2.2.2.2.1.2.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  founded
+
+
+Test Case 44 		(Key = 3.2.2.2.1.2.2.2.2.2.2.1.2.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  One
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 45 		(Key = 3.2.2.2.1.3.2.1.1.2.1.1.1.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  founded
+
+
+Test Case 46 		(Key = 3.2.2.2.1.3.2.1.1.2.1.1.1.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 47 		(Key = 3.2.2.2.1.3.2.1.1.2.1.1.2.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  founded
+
+
+Test Case 48 		(Key = 3.2.2.2.1.3.2.1.1.2.1.1.2.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 49 		(Key = 3.2.2.2.1.3.2.1.1.2.2.1.1.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  founded
+
+
+Test Case 50 		(Key = 3.2.2.2.1.3.2.1.1.2.2.1.1.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 51 		(Key = 3.2.2.2.1.3.2.1.1.2.2.1.2.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  founded
+
+
+Test Case 52 		(Key = 3.2.2.2.1.3.2.1.1.2.2.1.2.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 53 		(Key = 3.2.2.2.1.3.2.1.2.2.1.1.1.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  founded
+
+
+Test Case 54 		(Key = 3.2.2.2.1.3.2.1.2.2.1.1.1.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 55 		(Key = 3.2.2.2.1.3.2.1.2.2.1.1.2.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  founded
+
+
+Test Case 56 		(Key = 3.2.2.2.1.3.2.1.2.2.1.1.2.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 57 		(Key = 3.2.2.2.1.3.2.1.2.2.2.1.1.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  founded
+
+
+Test Case 58 		(Key = 3.2.2.2.1.3.2.1.2.2.2.1.1.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 59 		(Key = 3.2.2.2.1.3.2.1.2.2.2.1.2.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  founded
+
+
+Test Case 60 		(Key = 3.2.2.2.1.3.2.1.2.2.2.1.2.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 61 		(Key = 3.2.2.2.1.3.2.2.1.2.1.1.1.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  founded
+
+
+Test Case 62 		(Key = 3.2.2.2.1.3.2.2.1.2.1.1.1.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 63 		(Key = 3.2.2.2.1.3.2.2.1.2.1.1.2.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  founded
+
+
+Test Case 64 		(Key = 3.2.2.2.1.3.2.2.1.2.1.1.2.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 65 		(Key = 3.2.2.2.1.3.2.2.1.2.2.1.1.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  founded
+
+
+Test Case 66 		(Key = 3.2.2.2.1.3.2.2.1.2.2.1.1.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 67 		(Key = 3.2.2.2.1.3.2.2.1.2.2.1.2.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  founded
+
+
+Test Case 68 		(Key = 3.2.2.2.1.3.2.2.1.2.2.1.2.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 69 		(Key = 3.2.2.2.1.3.2.2.2.2.1.1.1.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  founded
+
+
+Test Case 70 		(Key = 3.2.2.2.1.3.2.2.2.2.1.1.1.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 71 		(Key = 3.2.2.2.1.3.2.2.2.2.1.1.2.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  founded
+
+
+Test Case 72 		(Key = 3.2.2.2.1.3.2.2.2.2.1.1.2.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 73 		(Key = 3.2.2.2.1.3.2.2.2.2.2.1.1.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  founded
+
+
+Test Case 74 		(Key = 3.2.2.2.1.3.2.2.2.2.2.1.1.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  Yes
+   Symbolic link of the file                    :  not founded
+
+
+Test Case 75 		(Key = 3.2.2.2.1.3.2.2.2.2.2.1.2.1.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  founded
+
+
+Test Case 76 		(Key = 3.2.2.2.1.3.2.2.2.2.2.1.2.2.)
+   Number of files provided                     :  multiple
+   File is exist or not with the given name     :  Found multiple name
+   File name is endWith forward Slash           :  False
+   Can file be be open or not                   :  False
+   Destination path is valid or not             :  Valid
+   Presence of a file                           :  multiple
+   number of command line arguments and options :  More than one
+   command line argument for -b                 :  -b was not entered
+   command line argument for -f                 :  -f was not entered
+   command line argument for -r                 :  -r was not entered
+   command line argument for -v                 :  -v was not entered
+   Checking specific extension of the file      :  founded
+   Check copied file is already presents        :  No
+   Symbolic link of the file                    :  not founded
+
